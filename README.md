@@ -1,5 +1,5 @@
-# Office-Web-Site (ITALIAN)
+# Office-Web-Site 
 
-This is my first attempt at creating a dynamic web page using php html and a bit of css. 
+This is my first attempt at creating a dynamic web page using php html and a bit of css, the code is written in Italian. 
 
 This program should represent a site that, through a login, allows you to view a list of offices with the possibility of creating new ones and deleting both old and new ones.
